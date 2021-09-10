@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Autistic Marketer's Picks",
-    "currentPage": "index.html",
+    "currentPage": "funnelsbot.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -71,7 +71,14 @@
     "witsec-language": false
   },
   "pages": {
-    "index.html": {
+    "page1.html": {
+      "settings": {
+        "title": "More Autistic Marketer's Picks",
+        "order": 1
+      },
+      "components": []
+    },
+    "funnelsbot.html": {
       "settings": {
         "main": true,
         "title": "Funnelsbot",
